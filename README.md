@@ -1,5 +1,5 @@
 # GenMapping
-GenMapping:Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction
+GenMapping: Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction
 
 ## Motivation
 <div align=center>
