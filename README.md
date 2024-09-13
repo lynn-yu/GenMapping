@@ -3,12 +3,12 @@ GenMapping:Unleashing the Potential of Inverse Perspective Mapping for Robust On
 
 ## Motivation
 <div align=center>
-<img src="https://github.com/lynn-yu/DTCLMapper/blob/main/intro_1.png" >
+<img src="https://github.com/lynn-yu/xx" >
 </div>
 
 ## Framework
 <div align=center>
-<img src="https://github.com/lynn-yu/DTCLMapper/blob/main/framework.png" >
+<img src="https://github.com/lynn-yu/xx" >
 </div>
 
 ### Abstract
