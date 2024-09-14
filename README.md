@@ -3,7 +3,7 @@ GenMapping: Unleashing the Potential of Inverse Perspective Mapping for Robust O
 
 ## Motivation
 <div align=center>
-<img src="https://github.com/lynn-yu/GenMapping/blob/main/motivation.png" width="80%" >
+<img src="https://github.com/lynn-yu/GenMapping/blob/main/motivation.png" width="50%" >
 </div>
 
 ## Framework
