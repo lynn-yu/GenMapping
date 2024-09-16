@@ -3,7 +3,7 @@ GenMapping: Unleashing the Potential of Inverse Perspective Mapping for Robust O
 
 ## Motivation
 <div align=center>
-<img src="https://github.com/lynn-yu/GenMapping/blob/main/motivation.png" width="50%" >
+<img src="https://github.com/lynn-yu/GenMapping/blob/main/motivation.png" width="80%" >
 </div>
 
 ## Framework
@@ -16,3 +16,16 @@ Online High-Definition (HD) maps have emerged as the preferred option for autono
 
 ### Update
 2024.9 Init repository.
+
+## 🤝 Publication:
+Please consider referencing this paper if you use the ```code``` from our work.
+Thanks a lot :)
+
+```
+@article{li2024genmapping,
+  title={GenMapping: Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction},
+  author={Siyu Li and Kailun Yang and Hao Shi and Song Wang and You Yao and Zhiyong Li},
+  journal={arXiv preprint arXiv:2409.08688},
+  year={2024}
+}
+```
