@@ -1,5 +1,7 @@
 # GenMapping
-GenMapping: Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction [[PDF]](https://arxiv.org/pdf/2409.08688)
+
+### GenMapping: Unleashing the Potential of Inverse Perspective Mapping for Robust Online HD Map Construction [[PDF]](https://arxiv.org/pdf/2409.08688)
+Siyu Li, [Kailun Yang](https://yangkailun.com/)†, Hao Shi, [Song Wang](https://songw-zju.github.io/), You Yao, [Zhiyong Li](http://robotics.hnu.edu.cn/info/1071/1515.htm)†
 
 ## Motivation
 <div align=center>
